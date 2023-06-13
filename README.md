@@ -1,5 +1,7 @@
 ### Hi there, I'm Gürkan 👋
 
+I am Computer Engineering Student at Kocaeli University(3).
+
 <!--
 **gurkantngl/gurkantngl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
