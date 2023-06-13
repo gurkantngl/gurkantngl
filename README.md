@@ -27,9 +27,6 @@ I am Computer Engineering Student at Kocaeli University (3).
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1024px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a>
 </p>
 
-
-
-<br/>
 <br/>
 
 ### Reach out to me
