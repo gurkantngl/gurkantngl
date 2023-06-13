@@ -9,6 +9,7 @@ I am Computer Engineering Student at Kocaeli University (3).
 
 ### Reach out to me
 
+[<img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/#0A66C2"/>][Linkedin]
 [<img height="32" width="32" src="https://cdn.simpleicons.org/instagram/#E4405F"/>][Instagram]
 
 
