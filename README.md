@@ -4,7 +4,6 @@ I am Computer Engineering Student at Kocaeli University (3).
 
 
 ![Gurkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurkantngl&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurkantngl&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
