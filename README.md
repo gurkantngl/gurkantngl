@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/gurkantngl/count.svg?"  />
-</div>
-
-###
-
 <p align="left">I am Computer Engineering Student at Kocaeli University (4).</p>
 
 ###
