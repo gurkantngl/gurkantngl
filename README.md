@@ -1,6 +1,6 @@
 ### Hi there, I'm Gürkan 👋
 
-I am Computer Engineering Student at Kocaeli University (3).
+I am Computer Engineering Student at Kocaeli University (4).
 
 
 ![Gurkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurkantngl&show_icons=true&theme=radical)
