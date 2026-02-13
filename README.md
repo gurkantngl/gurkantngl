@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">• I am Computer Engineering Student at Kocaeli University (4).<br>• I'm a software developer specializing in AI and cloud technologies</p>
+<p align="left">• I'm a software developer specializing in AI and cloud technologies</p>
 
 ###
 
